@@ -1,1 +1,7 @@
-lerna-debug.log
+.DS_Store
+/node_modules
+/packages/*/node_modules
+*.log
+*.cache
+/.eslintcache
+dist
